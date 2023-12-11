@@ -16,7 +16,6 @@ I have experience in:
 💻 **Front-End Development**
 
 ## Languages
-- **TypeScript**
 - **JavaScript**
 - **HTML/CSS**
 
