@@ -9,7 +9,7 @@ I am passionate about coding and music, and have always used Windows as the only
 
 * 🌍  I'm based in Iquique, Chile.
 * 🖥️  See my portfolio at 
-* ✉️  You can contact me at [aronmilena.it@gmail.com](mailto:aronmilena.it@gmail.com)
+* ✉️  You can contact me at [patricio.conajagua.b@gmail.com](mailto:patricio.conajagua.b@gmail.com)
 
 I have experience in:
 
