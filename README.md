@@ -25,5 +25,5 @@ I have experience in:
 - **Bootstrap**
 
 ## Currently Learning
-- **NodeJS**
 - **ReactJS**
+- **NodeJS**
